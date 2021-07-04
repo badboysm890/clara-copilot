@@ -1,9 +1,17 @@
 # Clara-Copilot 🆚Code
 
+# ⚠️My Vscode extension havent been approved yet !
+- Use this method
+- Download this file "https://github.com/badboysm890/clara-copilot/blob/main/clara-copilot-0.0.1.vsix"
+- Click on extension and click on install from VSIX
+![helper](https://github.com/badboysm890/clara-copilot/blob/main/images/Screenshot%20(62).png)
+- and Install it Boom it works
+
 # Howdy 👋
 
 - I know you guys are 😩waiting for Github Copilot
 - Here is a alternative one for now 😁
+
 
 # ⭐ Star is all i want nothing much !!
 
