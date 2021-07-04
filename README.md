@@ -4,7 +4,7 @@
 - Use this method
 - Download this file "https://github.com/badboysm890/clara-copilot/blob/main/clara-copilot-0.0.1.vsix"
 - Click on extension and click on install from VSIX
-![helper](https://github.com/badboysm890/clara-copilot/blob/main/images/Screenshot%20(62).png)
+- ![helper](https://github.com/badboysm890/clara-copilot/blob/main/images/Screenshot%20(62).png)
 - and Install it Boom it works
 
 # Howdy 👋
@@ -18,11 +18,11 @@
 ## How to use
 
 -  Write a command eg. Python Loops
-![helper](https://github.com/badboysm890/clara-copilot/blob/main/images/Screenshot%20(67).png)
+- ![helper](https://github.com/badboysm890/clara-copilot/blob/main/images/Screenshot%20(67).png)
 -  Select the sentence and Press ctrl + shift + p
-![helper](https://github.com/badboysm890/clara-copilot/blob/main/images/Screenshot%20(68).png)
+- ![helper](https://github.com/badboysm890/clara-copilot/blob/main/images/Screenshot%20(68).png)
 -  select search snippet
-![helper](https://github.com/badboysm890/clara-copilot/blob/main/images/Screenshot%20(69).png) 
+- ![helper](https://github.com/badboysm890/clara-copilot/blob/main/images/Screenshot%20(69).png) 
 -  Boom 💥 You got it !!! 
 
 
