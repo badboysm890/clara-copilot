@@ -1,8 +1,8 @@
 # clara-copilot README
 
-#Howdy !!!
-##I know you guys are waiting for Github Copilot
-##Here is one for now 😁
+# Howdy !!!
+## I know you guys are waiting for Github Copilot
+## Here is one for now 😁
 
 # ⭐ Star is all i want nothing much !!
 
