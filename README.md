@@ -1,4 +1,4 @@
-# clara-copilot
+# Clara-Copilot 🆚Code
 
 # Howdy 👋
 
