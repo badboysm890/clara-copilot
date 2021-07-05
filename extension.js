@@ -18,7 +18,7 @@ function activate(context) {
                 let data = JSON.parse(response.text);
                 console.log(data)
                 if (data["answers"].length == 0) {
-                    vscode.window.showWarningMessage("Search with words that are simple !!")
+                    vscode.window.showWarningMessage("Server returned no code - Search with words that are simple !!")
                 }
                 editor.edit(editBuilder => {
                     editBuilder.replace(selections, String(data["answers"][0]["answer"]));
