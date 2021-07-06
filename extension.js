@@ -10,6 +10,10 @@ function activate(context) {
     const editor = vscode.window.activeTextEditor;
 
     async function findSnippets(data, selections) {
+        //validation for no text being selected
+        if (data.length == 0){
+            vscode.window.showWarningMessage("No text selected! Please select some text to get snippet")
+        }
         const forumURL = "https://www.codegrepper.com/api/search.php?q=" + data + "&search_options=search_titles";
         // callbacks
         superagent
