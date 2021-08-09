@@ -26,6 +26,7 @@
 - Gives you snippets at an instant 
 
 ## Issues
+- Many Asked How it works and it just works using codegrepper API
  
 "You tell me !!"
 
