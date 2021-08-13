@@ -11,13 +11,13 @@
 
 ## How to use
 
-## Write a command eg. Python Loops
+### Write a command eg. Python Loops
 ![helper](https://github.com/badboysm890/clara-copilot/blob/main/images/Screenshot%20(67).png)
-## Select the sentence and Press ctrl + shift + p
+### Select the sentence and Press ctrl + shift + p
 ![helper](https://github.com/badboysm890/clara-copilot/blob/main/images/Screenshot%20(68).png)
-## select search snippet
+### select search snippet
 ![helper](https://github.com/badboysm890/clara-copilot/blob/main/images/Screenshot%20(69).png) 
-## Boom 💥 You got it !!! 
+### Boom 💥 You got it !!! 
 
 
 ## Features
