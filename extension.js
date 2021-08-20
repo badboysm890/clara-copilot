@@ -24,11 +24,8 @@ function activate(context) {
                 if (data["answers"].length == 0) {
                     vscode.window.showWarningMessage("Server returned no code - Search with words that are simple !!")
                 }
-
                 editor.edit(editBuilder => {
-                    editBuilder.replace(selections, String(data["answers"].map(result => {
-                        return `${result['answer']}\n/******************************/\n`
-                    })));
+                    editBuilder.replace(selections, String(data["answers"][0]["answer"]));
                 });
             })
     }
