@@ -10,8 +10,6 @@ function activate(context) {
     const editor = vscode.window.activeTextEditor;
 
     async function findSnippets(data, selections) {
-        console.log('it was called')
-
         //validation for no text being selected
         if (data.length == 0){
             vscode.window.showWarningMessage("No text selected! Please select some text to get snippet")
