@@ -13,7 +13,7 @@ function activate(context) {
         console.log('it was called')
 
         //validation for no text being selected
-        if (data.length == 0) {
+        if (data.length == 0){
             vscode.window.showWarningMessage("No text selected! Please select some text to get snippet")
         }
         const forumURL = "https://www.codegrepper.com/api/search.php?q=" + data + "&search_options=search_titles";
@@ -35,7 +35,7 @@ function activate(context) {
             })
     }
 
-    let disposable = vscode.commands.registerCommand('clara-copilot.searchcode', async function () {
+    let disposable = vscode.commands.registerCommand('clara-copilot.searchcode', async function() {
 
         if (editor) {
             const document = editor.document;
@@ -51,7 +51,7 @@ function activate(context) {
     context.subscriptions.push(disposable);
 }
 
-function deactivate() { }
+function deactivate() {}
 
 module.exports = {
     activate,
