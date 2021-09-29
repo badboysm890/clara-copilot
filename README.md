@@ -15,7 +15,7 @@
 ![helper](https://github.com/badboysm890/clara-copilot/blob/main/images/Screenshot%20(67).png)
 ### Select the sentence and Press ctrl + shift + p
 ![helper](https://github.com/badboysm890/clara-copilot/blob/main/images/Screenshot%20(68).png)
-### select search snippet
+### Select search snippet
 ![helper](https://github.com/badboysm890/clara-copilot/blob/main/images/Screenshot%20(69).png) 
 ### Boom 💥 You got it !!! 
 
